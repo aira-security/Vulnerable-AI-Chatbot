@@ -3,7 +3,7 @@
 </p>
 
 ## :rocket: Overview
-This repository hosts the Vulnerable AI Chat Bot, developed by AI Risk Armour. This chatbot app intentionally incorporates vulnerabilities and misconfigurations for learning and practicing AI security.
+This repository hosts the Vulnerable AI Chat Bot, developed by Aira Security. This chatbot app intentionally incorporates vulnerabilities and misconfigurations for learning and practicing AI security.
 
 In order to use the lab exercises, get our udemy course [AI Security BootCamp: Hacking LLMs like a Pro](https://www.udemy.com/course/ai-security-bootcamp/?couponCode=B684F28200E4E0AC6A59).
 <br />
